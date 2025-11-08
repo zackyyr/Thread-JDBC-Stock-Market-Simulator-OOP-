@@ -1,5 +1,6 @@
 # Project Latihan Thread & JDBC - Interactive Stock Market Simulator
 
+| | |
 |---|---|
 | **Nama** | M. Raechan Ulwan Zacky |
 | **NIM** | F1D02310015 |
