@@ -125,6 +125,8 @@ java -cp "lib/mysql-connector-j-9.5.0.jar:." main.StockMarketAppDashboard
 ---
 
 ## 📸 Screenshots
+- DEMO PROGRAM : 
+  ![Demo Program](/img/LiveProgram.gif)  
 - Console dashboard responsive dengan update harga saham  
   ![Program Jalan](/img/ProgramJalan.png)  
 - MySQL table `stocks` & `price_history`  
